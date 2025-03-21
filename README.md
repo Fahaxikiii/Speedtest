@@ -234,7 +234,7 @@ bash <(curl -sL bash.icu/speedtest)
 或
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/i-abc/Speedtest/main/speedtest.sh)
+bash <(curl -sL https://ghproxy.161122.xyz/https://raw.githubusercontent.com/Fahaxikiii/Speedtest/main/speedtest.sh)
 ```
 
 # 基本功能
